@@ -22,13 +22,13 @@ Welcome to the Vellura Space website repository. This is a modern, responsive we
 ## Project Structure
 
 ```
-vellura_space/
+azure_website_vellura_space/
 ├── index.html           # Main HTML file
 ├── styles.css           # All CSS styles and animations
 ├── script.js            # JavaScript functionality
 ├── README.md            # This file
 ├── DEPLOYMENT.md        # Deployment guide
-├── CNAME                # Custom domain configuration
+├── CNAME                # (Optional) Custom domain configuration
 └── .gitignore           # Git ignore rules
 ```
 
@@ -75,8 +75,8 @@ vellura_space/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vellura_space.git
-cd vellura_space
+git clone https://github.com/yourusername/azure_website_vellura_space.git
+cd azure_website_vellura_space
 ```
 
 2. Open `index.html` in your browser:

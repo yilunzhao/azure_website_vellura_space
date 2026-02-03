@@ -24,7 +24,7 @@ If you don't have one already:
 
 1. Log in to GitHub
 2. Click the **+** icon in the top right and select **New repository**
-3. Repository name: `vellura_space` (or your preferred name)
+3. Repository name: `azure_website_vellura_space` (or your preferred name)
 4. Description: "AI-Powered Interior Design & Soft Furnishings Styling Website"
 5. Make it **Public** (required for GitHub Pages free tier)
 6. Do NOT initialize with README, .gitignore, or license yet
@@ -35,7 +35,7 @@ If you don't have one already:
 1. Open terminal/command prompt on your local machine
 2. Navigate to your project directory:
 ```bash
-cd /Users/yilunzhao/github/vellura_space
+cd /Users/yilunzhao/github/azure_startup_website/vellura_space
 ```
 
 3. Initialize git (if not already done):
@@ -45,7 +45,7 @@ git init
 
 4. Add your GitHub repository as remote:
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/vellura_space.git
+git remote add origin https://github.com/YOUR_USERNAME/azure_website_vellura_space.git
 ```
 
 5. Add all files:
@@ -121,13 +121,13 @@ git push origin main
 ### Step 2.2: Wait for GitHub to Deploy
 
 1. Refresh the Settings > Pages page
-2. You should see a message: "Your site is published at `https://YOUR_USERNAME.github.io/vellura_space`"
+2. You should see a message: "Your site is published at `https://YOUR_USERNAME.github.io/azure_website_vellura_space/`"
 3. This usually takes 1-2 minutes
 4. Click the URL to verify your site is live
 
 ### Step 2.3: Verify Your Site Works
 
-1. Visit `https://YOUR_USERNAME.github.io/vellura_space`
+1. Visit `https://YOUR_USERNAME.github.io/azure_website_vellura_space/`
 2. Check that all pages load correctly
 3. Test navigation and interactive features
 4. Test on mobile devices
